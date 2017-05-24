@@ -1,15 +1,11 @@
 {
-  "name": "react-native-lite-url",
-  "version": "1.0.0",
+  "name": "react-native-url",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "react-native-lite": "*"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "程巍巍",
+  "license": "Apache-2.0"
 }
